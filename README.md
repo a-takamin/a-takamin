@@ -1,4 +1,11 @@
-### Hi there 👋
+<a href="https://github.com/A-Takamin/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=A-Takamin&count_private=true&theme=solarized-light" />
+</a>
+<a href="https://github.com/A-Takamin/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Takamin&theme=solarized-light&layout=compact" />
+</a>
+
+
 
 <!--
 **A-Takamin/A-Takamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
