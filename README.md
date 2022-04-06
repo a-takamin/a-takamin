@@ -1,4 +1,4 @@
-![A-Takamin's github stats](https://github-readme-stats.vercel.app/api?username=A-Takamin&count_private=true&theme=solarized-light)
+![A-Takamin's github stats](https://github-readme-stats.vercel.app/api?username=A-Takamin&count_private=true&theme=solarized-light&line_hight=30)
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Takamin&hide=html&theme=solarized-light&layout=compact)
 
 <!--
