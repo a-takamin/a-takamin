@@ -1,5 +1,5 @@
-![a-takamin's github stats](https://github-readme-stats-phi-livid.vercel.app/api?username=a-takamin&count_private=true&theme=solarized-light&line_hight=30)
-![Top Used Languages](https://github-readme-stats-phi-livid.vercel.app/api/top-langs/?username=a-takamin&hide=html&theme=solarized-light&count_private=true)
+![a-takamin's github stats](https://github-readme-stats-phi-livid.vercel.app/api?username=a-takamin&count_private=true&theme=react&line_hight=30)
+![Top Used Languages](https://github-readme-stats-phi-livid.vercel.app/api/top-langs/?username=a-takamin&hide=html&theme=react&count_private=true&layout=compact&langs_count=10&exclude_repo=github-readme-stats)
 
 <!--
 **a-takamin/a-takamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
