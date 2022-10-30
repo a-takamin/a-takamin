@@ -1,8 +1,8 @@
-![A-Takamin's github stats](https://github-readme-stats.vercel.app/api?username=A-Takamin&count_private=true&theme=solarized-light&line_hight=30)
-![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Takamin&hide=html&theme=solarized-light)
+![a-takamin's github stats](https://github-readme-stats.vercel.app/api?username=a-takamin&count_private=true&theme=solarized-light&line_hight=30)
+![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-takamin&hide=html&theme=solarized-light)
 
 <!--
-**A-Takamin/A-Takamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**a-takamin/a-takamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
