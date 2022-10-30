@@ -1,4 +1,4 @@
-![Top Used Languages](https://github-readme-stats-phi-livid.vercel.app/api/top-langs/?username=a-takamin&hide=html&theme=react&count_private=true&layout=compact&langs_count=10&exclude_repo=github-readme-stats&card_width=500)
+![Top Used Languages](https://github-readme-stats-phi-livid.vercel.app/api/top-langs/?username=a-takamin&hide=html&theme=react&count_private=true&layout=compact&langs_count=10&exclude_repo=github-readme-stats&card_width=700)
 
 <!--
 **a-takamin/a-takamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
