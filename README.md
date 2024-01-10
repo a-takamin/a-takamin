@@ -20,7 +20,10 @@
 <img height="40px" width="40px" alt="grafana" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png">
 </div>
 
----
+<h3>Contact</h3>
+T.B.D
+
+<h3>Stats</h3>
 
 ![Top Used Languages](https://github-readme-stats-phi-livid.vercel.app/api/top-langs/?username=a-takamin&hide=html,Assembly,Scilab&theme=react&count_private=true&layout=compact&langs_count=10&exclude_repo=github-readme-stats&card_width=700)
 
