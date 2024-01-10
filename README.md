@@ -1,8 +1,3 @@
-<html>
-<head>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/brands.min.css"></script>
-</head>
-
 <h1>Hi, I'm takamin🍁</h1>
 
 <h3>About me</h3>
@@ -27,10 +22,8 @@
 
 ---
 
-![Top Used Languages](https://github-readme-stats-phi-livid.vercel.app/api/top-langs/?username=a-takamin&hide=html&theme=react&count_private=true&layout=compact&langs_count=10&exclude_repo=github-readme-stats&card_width=700)
+![Top Used Languages](https://github-readme-stats-phi-livid.vercel.app/api/top-langs/?username=a-takamin&hide=html,Assembly,Scilab&theme=react&count_private=true&layout=compact&langs_count=10&exclude_repo=github-readme-stats&card_width=700)
 
 ![takamin's GitHub stats](https://github-readme-stats-phi-livid.vercel.app/api?username=a-takamin&theme=react&count_private=true&layout=compact&card_width=700)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=a-takamin&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</html>
